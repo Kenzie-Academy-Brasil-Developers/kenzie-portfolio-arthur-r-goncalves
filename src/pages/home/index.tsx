@@ -35,9 +35,8 @@ export const Home = (): JSX.Element => {
               Criando experiências por meio da tecnologia{" "}
             </Text>
             <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, participei
-              de diversos projetos resolvendo problemas de alto nível e
-              desenvolvendo habilidades
+            Sempre estive inserido no contexto da tecnologia e desde 2021 me descobri na programação, sendo assim, escolhi a área de desenvolvimento para estreitar ainda mais o contato, 
+            além da possibilidade de criar novos projetos, solucionar problemas e ajudar outras pessoas.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" href="#projetos">
@@ -70,7 +69,7 @@ export const Home = (): JSX.Element => {
                 Vamos trocar uma ideia?
               </Text>
               <Text as="p" type="body1" color="grey2">
-                No linkedIn sempre estou compartilhando meus processos diários
+                No LinkedIn estou compartilhando meus processos diários
                 para desenvolver esses projetos e estou disposto a trocar
                 algumas ideias por lá
               </Text>
